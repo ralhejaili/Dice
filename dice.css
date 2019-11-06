@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+  width: auto;
+}
+img{
+  width: 80px;
+}
+#pResult{
+  color: red;
+}
+#fplayer{
+  position: absolute;
+  left: 30%;
+}
+#splayer{
+  position: absolute;
+  right: 30%;
+}
